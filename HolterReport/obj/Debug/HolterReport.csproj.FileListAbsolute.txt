@@ -1,0 +1,21 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\HolterReport\HolterReport\bin\Debug\HolterReport.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\HolterReport\HolterReport\bin\Debug\HolterReport.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HolterReport\HolterReport\bin\Debug\HolterReport.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HolterReport\HolterReport\obj\Debug\HolterReport.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\HolterReport\HolterReport\obj\Debug\HolterReport.Form1.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\HolterReport\HolterReport\obj\Debug\HolterReport.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\HolterReport\HolterReport\obj\Debug\HolterReport.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\HolterReport\HolterReport\obj\Debug\HolterReport.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HolterReport\HolterReport\obj\Debug\HolterReport.pdb
+C:\Users\建吾\Dropbox\VS2013\HolterReport\HolterReport\bin\Debug\HolterReport.exe.config
+C:\Users\建吾\Dropbox\VS2013\HolterReport\HolterReport\obj\Debug\HolterReport.exe
+C:\Users\建吾\Dropbox\VS2013\HolterReport\HolterReport\obj\Debug\HolterReport.pdb
+C:\Users\Owner\Dropbox\VS2013\HolterReport\HolterReport\bin\Debug\HolterReport.exe.config
+C:\Users\Owner\Dropbox\VS2013\HolterReport\HolterReport\obj\Debug\HolterReport.exe
+C:\Users\Owner\Dropbox\VS2013\HolterReport\HolterReport\obj\Debug\HolterReport.pdb
+C:\Users\Owner\Dropbox\VS2013\HolterReport\HolterReport\bin\Debug\HolterReport.exe
+C:\Users\Owner\Dropbox\VS2013\HolterReport\HolterReport\bin\Debug\HolterReport.pdb
+C:\Users\Owner\Dropbox\VS2013\HolterReport\HolterReport\obj\Debug\HolterReport.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Dropbox\VS2013\HolterReport\HolterReport\obj\Debug\HolterReport.Form1.resources
+C:\Users\Owner\Dropbox\VS2013\HolterReport\HolterReport\obj\Debug\HolterReport.Properties.Resources.resources
+C:\Users\Owner\Dropbox\VS2013\HolterReport\HolterReport\obj\Debug\HolterReport.csproj.GenerateResource.Cache
